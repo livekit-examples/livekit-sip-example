@@ -1,3 +1,6 @@
+> [!WARNING]
+> This example is archived and no longer maintained. For current examples, see [telephony docs](https://docs.livekit.io/telephony/).
+
 # LiveKit SIP Phone Caller
 
 This is a web-based SIP phone caller application built with [LiveKit](https://livekit.io) that enables making phone calls through your browser using LiveKit's SIP integration. It provides a simple interface for dialing phone numbers and managing calls with high-quality audio.
